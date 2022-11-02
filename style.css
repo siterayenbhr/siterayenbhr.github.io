@@ -191,6 +191,7 @@ h2, h3{
 }
 video{
     height: 230px;
+	overflow: hidden;
 }
 #divo{
 	text-align: center;
